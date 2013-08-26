@@ -2,7 +2,15 @@
 jQuery Select menu
 ------
 
-trying to replace the original one.
+Trying to make a alternative for the default `<select>`.
+
+[Demo](https://s.jiyinyiyong.info/jquery-select/index.html)
+
+### Installation
+
+```
+bower install --save jquery-select-simple
+```
 
 ### Usage
 
@@ -44,8 +52,6 @@ http://unicode-table.com/en/search/?q=triangle
 ```
 ▾
 ```
-
-Live Demo at: http://jiyinyiyong.github.io/jquery-select/
 
 ### License
 
