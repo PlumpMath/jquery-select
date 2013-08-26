@@ -113,7 +113,7 @@
   
   fn.bindArrow = function() {
     var self = this;
-    $(this.el).on('click', '.select-arrow', function() {
+    $(this.el).on('click', '.select-title, .select-arrow', function() {
       self.toggleMenu();
     });
   };

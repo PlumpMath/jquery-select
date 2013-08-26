@@ -21,6 +21,7 @@
 .select-menu .select-title {
   border: solid 1px hsl(240,60%,90%);
   border-radius: 2px;
+  cursor: pointer;
 }
 
 .select-arrow {

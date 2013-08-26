@@ -4,7 +4,7 @@ jQuery Select menu
 
 Trying to make a alternative for the default `<select>`.
 
-[Demo](https://s.jiyinyiyong.info/jquery-select/index.html)
+[Demo](http://s.jiyinyiyong.info/jquery-select/index.html)
 
 ### Installation
 

@@ -1,5 +1,5 @@
 {
-  "name": "jquery-select",
+  "name": "jquery-select-simple",
   "version": "0.0.1",
   "main": "js/select.js",
   "ignore": [
@@ -11,5 +11,15 @@
   ],
   "dependencies": {
     "jquery": "~2.0.3"
-  }
+  },
+  "homepage": "https://github.com/jiyinyiyong/jquery-select",
+  "authors": [
+    "jiyinyiyong <jiyinyiyong@gmail.com>"
+  ],
+  "description": "dead simple jQuery Select menu",
+  "keywords": [
+    "jquery",
+    "select"
+  ],
+  "license": "MIT"
 }
